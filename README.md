@@ -38,6 +38,7 @@ This project serves as an excellent practice tool for beginners aiming to improv
 ### Links
 
 - Solution URL: (https://github.com/aryandhir03/QR_code_frontend_mentor_challenge.git)
+- Website URL: (https://aryandhir03.github.io/qrcode/)
 
 ### Built with
 
@@ -101,5 +102,5 @@ By focusing on these areas, I hope to smooth out the bumps on the road to buildi
 
 ## Author
 
-- Website - [Aryan Dhir](https://www.your-site.com)
+- Website - [Aryan Dhir]([https://www.your-site.com](https://aryandhir03.github.io/qrcode/))
 - Frontend Mentor - [@aryandhir03](https://www.frontendmentor.io/profile/@aryandhir03)
